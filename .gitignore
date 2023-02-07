@@ -1,0 +1,6 @@
+GrpcClient/bin/
+GrpcClient/obj/
+GrpcDemoServer/bin/
+GrpcDemoServer/obj/
+NewGrpcClient/bin/
+NewGrpcClient/obj/
